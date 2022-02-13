@@ -28,4 +28,5 @@ int main(void) {
     cout
         << "    gcd(" << a << ", " << b << ")="
         << gcd2(a, b) << endl;
+    return 0;
 }
